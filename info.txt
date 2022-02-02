@@ -1,0 +1,26 @@
+header color = #121B2A;
+
+hover color: #0178BC;
+
+                   Char 	Dec 	Hex
+right arrow symbol: ⊳	   8883	 22B3
+
+button color = #5A5A5A;
+
+button sign color = rgb(1, 120, 186);
+
+code for space is = &nbsp;
+
+Wireless
+Cyber Security
+Our team of industry experts provides a broad range of wireless expertise ranging in the areas of strategy, architecture, business models, development, implementation and operations
+
+
+
+Mission
+App Development
+We develop customized content and provide a full range of existing mobile device content we develop customized solutions and offer existing solutions to manage our customers' devices and data.
+
+
+Wireless Systems
+We develop customized security solutions and offer existing solutions that provide our customers with secure mobile communications, data integrity and specialized secure data applications.
