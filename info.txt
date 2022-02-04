@@ -7,7 +7,11 @@ right arrow symbol: ⊳	   8883	 22B3
 
 button color = #5A5A5A;
 
-button sign color = rgb(1, 120, 186);
+button icon color = rgb(1, 120, 186);
+
+links color = #040811;
+
+footer color = #121b2c;
 
 code for space is = &nbsp;
 
@@ -24,3 +28,20 @@ We develop customized content and provide a full range of existing mobile device
 
 Wireless Systems
 We develop customized security solutions and offer existing solutions that provide our customers with secure mobile communications, data integrity and specialized secure data applications.
+
+Oceans edge Inc.
+1861 Wiehle Avenue, Suite #250 Reston, VA 201 90
+Toll Free +1 (703) 793.9217
+Fax +1 (703) 535-3321
+Email information@oceansedge.biz
+
+
+Customer's Testimonials
+"I ask new customer:  who visit my bakery, 'How did you hear about us?' Almost all of them say they found us on the web. Of all the different methods of advertising."
+Rhoda Worku
+www.CabooseBakery.com
+
+Oceans'
+Edge Apps
+
+-
