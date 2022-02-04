@@ -127,7 +127,7 @@ header{
 .single {
   width: 26%;
   /* padding: 15px 12px; */
-  padding: 15px 75px 15px 17px;
+  padding: 15px 68px 15px 25px;
   /* border: 1px solid white; */
   float: left;
 }
@@ -136,6 +136,9 @@ header{
   overflow: hidden;
 }
 
+.border1{
+  border-left: 2px solid #1a2430;
+}
 .single_icon {
   width: 30%;
   float: left;
