@@ -7,6 +7,7 @@ right arrow symbol: ⊳	   8883	 22B3
 
 button color = #5A5A5A;
 
+border color = #1a2430;
 button icon color = rgb(1, 120, 186);
 
 links color = #040811;
